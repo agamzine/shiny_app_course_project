@@ -1,6 +1,9 @@
 # shiny_app_course_project
 Coursera Project
 
+This app is very simple. Just select a destination from the dropdown menu on the left, and the histogram on the right will show you a distribution of the arrival delays from NYC to that destination.
+
+
 Project Brief
 
 Your Shiny Application
